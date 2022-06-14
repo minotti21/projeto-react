@@ -1,0 +1,36 @@
+.footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    height: 12vh;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 1.5em 0 0.5em 0;
+}
+
+.item {
+    margin: 0 0.8em;
+}
+
+.item a {
+    color: white;
+    transition: 0.5s;
+    font-size: 30px;
+
+}
+
+.item a:hover {
+    color: #FFBB33;
+}
+
+.copyright {
+    font-weight: bold;
+}
+
+.copyright span {
+    color: #FFBB33;
+}
