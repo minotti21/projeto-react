@@ -1,7 +1,41 @@
-## Projeto feito em React seguindo o curso do Matheus Battisti - Hora de Codar
 
-Nesse projeto aprendi muitos conceitos importantes de como um projeto deve ser feito com a biblioteca React, utlizando suas vantagens no desenvolvimento web.
+# Projeto Costs
 
-Utilizei a biblioteca Json Server do NPM para simular um banco de dados e assim fazer o CRUD.
+Nesse projeto aprendi muitos conceitos importantes de como a biblioteca React nos auxilia no desenvolvimento de algo mais complexo
 
-Caso deseje fazer a utilização da aplicação, basta clonar esse repositório e rodar os seguintes comandos no terminal, npm install (para instalar todaas as dependências), npm start (iniciar o servidor de testes do react) e então abrir outro terminal para rodar o comando npm run backend (inicializar o banco de dados a partir do Json Server)
+Utilizei a biblioteca Json Server do NPM para simular um banco de dados e assim fazer o CRUD
+
+Gostaria de salientar que o fiz seguindo as video aulas do Matheus Batisti - Hora de Codar
+
+## Stack utilizada
+
+React
+
+## Rodando localmente
+
+Clone o projeto
+
+```bash
+  git clone https://link-para-o-projeto
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd my-project
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run start
+```
+```bash
+  npm run backend
+```
